@@ -1,1 +1,6 @@
-mikolatero/vlmcsd
+mikolatero/vlmcsd:latest
+zsm1703/mobaxterm-genkey:latest
+linuxserver/heimdal:latest
+whyour/qinglong:latest
+portainer/portainer-ce:latest
+ghcr.io/ajnart/homarr
